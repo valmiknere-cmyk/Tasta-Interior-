@@ -1,0 +1,6 @@
+{
+  "name": "Tasta Interior",
+  "description": "Premium interior design and architecture studio in Jalgaon, Maharashtra specializing in luxury residences, modular kitchens, and commercial spaces.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
